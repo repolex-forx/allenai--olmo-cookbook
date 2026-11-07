@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/allenai/olmo-cookbook",
+  "@type": "gh:Repository",
+  "gh:name": "olmo-cookbook",
+  "gh:owner": "allenai",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/allenai/olmo-cookbook/commit/c226eb6a07ccef068c26379d9c90304fbaeea841",
+      "git:hexsha": "c226eb6a07ccef068c26379d9c90304fbaeea841",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
